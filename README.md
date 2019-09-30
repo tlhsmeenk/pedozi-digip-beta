@@ -1,7 +1,6 @@
 # pedozi-digip-beta
 
 ## Inhoud
-# Table of Contents
 1. [Installeren](#installeren)
 2. [Problemen melden](#melden)
 
