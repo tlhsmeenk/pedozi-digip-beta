@@ -1,6 +1,11 @@
 # pedozi-digip-beta
 
-## App Installeren
+## Inhoud
+# Table of Contents
+1. [Installeren](#installeren)
+2. [Problemen melden](#melden)
+
+## App Installeren <a name="installeren"></a>
 ### Android
 Het android applicatie-landschap is divers. Dit maakt het lastig om een handleiding te schrijven die alle gevallen dekt. Mochten er vragen zijn stel ze gerust via de pedozi whatsapp groep.
 
@@ -9,5 +14,5 @@ Het android applicatie-landschap is divers. Dit maakt het lastig om een handleid
 3. Tijdens het installeren van de App zal Android melden dat de ontwikkelaar niet vertrouwd wordt. Dit komt omdat deze nog niet verbonden is aan de PlayStore. Je kan de melding negeren en de app als nog installeren. Als je hier bezwaren tegen hebt kan je wederom via de pedozi whatsapp groep contact opnemen, zodat we een passende oplossing kunnen vinden.
 4. Als het goed is is de app nu beschikbaar tussen je andere apps. De naam is Pedozi.
 
-## Feedback 
+## Problemen melden <a name="melden"></a>
 Feedback en bevindingen kan je melden via, https://forms.gle/tMxwDbGm5Ycz2m6Q9 Deze feedback wordt gebundeld en komt [hier beschikbaar](https://github.com/tlhsmeenk/pedozi-digip-beta/issues)
