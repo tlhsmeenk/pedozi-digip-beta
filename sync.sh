@@ -1,1 +1,1 @@
-cp -r ../pedozi-digip/releases/BETA* ./releases
+cp -r ../pedozi-digip/releases/* ./releases
